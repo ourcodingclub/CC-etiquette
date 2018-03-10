@@ -7,9 +7,11 @@ The data for `bad_script.R`, `good_script.R` and the tutorial were downloaded fr
 For more on coding etiquette please see:
 - [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
 - [Hadley Wickham's R Style Guide](http://adv-r.had.co.nz/Style.html)
-- [An article on naming conventions by Rasmus Bååth](https://journal.r-project.org/archive/2012-2/RJournal_2012-2_Baaaath.pdf)
+- [An article on naming conventions by Rasmus Bååth](https://journal.r-project.org/archive/2012-2/RJournal_2012-2_Baaaath.pdf)
 
 For more about Coding Club, please see https://ourcodingclub.github.io/
+
+Check out https://ourcodingclub.github.io/workshop/ to learn how you can get involved!
 
 We would love to hear your feedback on the tutorial, whether you did it at a Coding Club workshop or online: 
 https://www.surveymonkey.co.uk/r/8YBXTMT
